@@ -14,5 +14,9 @@ useful site URLs
 * 
 * 
 
+## Python
+* https://www.youtube.com/watch?v=rPCm-v_W4Ng&list=PLCZyyif9kAwX7rlXKrJTlPQs9Nk7TBAHO
+* 
+
 # 今の設定
 * https://qiita.com/d-dai/items/d7f329b7d82e2165dab3
