@@ -4,6 +4,9 @@ useful site URLs
 * https://tajimarobotics.com/
 * 
 * 
+## VS code
+* https://note.affi-sapo-sv.com/vscode-multiline-edit.php
+
 ## Git and Github
 * https://jsnotice.com/posts/2021-05-17/
     * add commit pushが一括できるやつ
