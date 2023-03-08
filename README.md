@@ -35,5 +35,5 @@ useful site URLs
 # a
 * 
 
-# a
-* s
+# githubとslackの連携
+* https://zenn.dev/unsoluble_sugar/articles/298c9728e01819db9f50
